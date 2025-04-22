@@ -22,5 +22,5 @@ jobs:
           passphrase:
           port: 22
           script: |
-            cd /home/spitec
+            cd ~/spitec
             git pull origin main
