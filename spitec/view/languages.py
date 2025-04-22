@@ -181,7 +181,7 @@ languages = {
             "label": "File",
         },
         "boot-progress-window":{
-            "header": "Loading...",
+            "header": "Loading... (o_o)",
         },
         "geo_stuctures_window":{
             "title": "Selecting an event tag",
