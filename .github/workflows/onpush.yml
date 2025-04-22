@@ -24,3 +24,6 @@ jobs:
           script: |
             cd ~/spitec
             git pull origin main
+            source ./.venv/bin/activate
+            sudo systemctl restart spitec
+

@@ -1,7 +1,7 @@
 languages = {
     "ru": {
         "buttons": {
-            "download": "Загрузить",
+            "download": "Загрузить но круто",
             "open": "Открыть",
             "settings": "Настройки",
             "clear-all": "Очистить всё",
